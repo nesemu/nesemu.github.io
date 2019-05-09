@@ -6,6 +6,7 @@
     <description>Recent content in Categories on NESEmu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Kyle Miller and Ethan Williams</copyright>
     
 	<atom:link href="http://nesemu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
