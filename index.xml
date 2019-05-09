@@ -18,8 +18,20 @@
       <pubDate>Thu, 09 May 2019 15:55:34 -0400</pubDate>
       
       <guid>https://nesemu.github.io/about/</guid>
-      <description>Fast Lightweight NES Emulation for MacOS What started as an ambitious project for a course at the University of Notre Dame has evolved into a fully functional open source project. NESEmu is a Fast, Lightweight Nintendo NES Emulator. Currently the backend is written in C++ while the front end is made specifically for MacOS written in a combination of Objective-C and Swfit.
+      <description>Fast Lightweight NES Emulation for MacOS What started as an ambitious project for a course at the University of Notre Dame has evolved into a fully functional open source project. NESEmu is a Fast, Lightweight Nintendo NES Emulator. Currently the backend is written in C++ while the front end is made specifically for MacOS written in a combination of Objective-C and Swift.
 The emulator currently support games such as Donkey Kong, Super Mario Bros, The Legend of Zelda, Metroid, and more!</description>
+    </item>
+    
+    <item>
+      <title>Contributing</title>
+      <link>https://nesemu.github.io/contribute/</link>
+      <pubDate>Thu, 09 May 2019 15:54:53 -0400</pubDate>
+      
+      <guid>https://nesemu.github.io/contribute/</guid>
+      <description>Getting the Code NESEmu is hosted on GitHub. To download the code, clone the repository:
+git clone https://github.com/nesemu/NESemu.git  Building NESEmu As a macOS Cocoa app, NESEmu builds in Xcode. In the repository, open NESemu.xcworkspace and build the NESEmu target:
+cd NESemu open NESemu.xcworkspace  Be sure to use Xcode 10 on macOS Mojave 10.14 or later.
+Submitting a Pull Request Our preferred way to accept contributions is through pull requests on GitHub.</description>
     </item>
     
   </channel>

@@ -8,13 +8,18 @@
   </url>
   
   <url>
-    <loc>https://nesemu.github.io/</loc>
-    <lastmod>2019-05-09T15:55:34-04:00</lastmod>
-    <priority>0</priority>
+    <loc>https://nesemu.github.io/contribute/</loc>
+    <lastmod>2019-05-09T15:54:53-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://nesemu.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nesemu.github.io/</loc>
+    <lastmod>2019-05-09T15:55:34-04:00</lastmod>
     <priority>0</priority>
   </url>
   
