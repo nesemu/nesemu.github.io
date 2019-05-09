@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on NESEmu</title>
-    <link>http://nesemu.github.io/tags/</link>
+    <link>https://nesemu.github.io/tags/</link>
     <description>Recent content in Tags on NESEmu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Kyle Miller and Ethan Williams</copyright>
     
-	<atom:link href="http://nesemu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nesemu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
