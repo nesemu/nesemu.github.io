@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Kyle Miller and Ethan Williams</copyright>
-    <lastBuildDate>Thu, 09 May 2019 15:55:34 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2019 15:58:20 -0400</lastBuildDate>
     
 	<atom:link href="https://nesemu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Install</title>
+      <link>https://nesemu.github.io/install/</link>
+      <pubDate>Thu, 09 May 2019 15:58:20 -0400</pubDate>
+      
+      <guid>https://nesemu.github.io/install/</guid>
+      <description>Download the latest release from GitHub.
+Usage:
+ Download the DMG and Open It Copy the application into your Applications folder Start the Application and Choose a ROM that you have somewhere on your computer Use the following table to help you determine key mappings     NES Controller Key Keyboard Key     A BUTTON &amp;lsquo;j&amp;rsquo; Key   B BUTTON &amp;lsquo;k&amp;rsquo; Key   SELECT BUTTON &amp;lsquo;n&amp;rsquo; Key   START BUTTON &amp;rsquo;m&amp;rsquo; Key   UP D-PAD &amp;lsquo;w&amp;rsquo; Key   DOWN D-PAD &amp;rsquo;s&amp;rsquo; Key   LEFT D-PAD &amp;lsquo;a&amp;rsquo; Key   RIGHT D-PAD &amp;rsquo;d&amp;rsquo; Key    </description>
+    </item>
     
     <item>
       <title>About</title>
@@ -32,6 +43,15 @@ The emulator currently support games such as Donkey Kong, Super Mario Bros, The 
 git clone https://github.com/nesemu/NESemu.git  Building NESEmu As a macOS Cocoa app, NESEmu builds in Xcode. In the repository, open NESemu.xcworkspace and build the NESEmu target:
 cd NESemu open NESemu.xcworkspace  Be sure to use Xcode 10 on macOS Mojave 10.14 or later.
 Submitting a Pull Request Our preferred way to accept contributions is through pull requests on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://nesemu.github.io/posts/hello/</link>
+      <pubDate>Thu, 09 May 2019 15:54:32 -0400</pubDate>
+      
+      <guid>https://nesemu.github.io/posts/hello/</guid>
+      <description>Welcome to NESEmu! NESEmu is a free, lightweight native NES emulator for macOS. Read more about us, install the emulator, or jump in and contribute to the project!</description>
     </item>
     
   </channel>

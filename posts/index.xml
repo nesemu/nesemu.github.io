@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on NESEmu</title>
+    <link>https://nesemu.github.io/posts/</link>
+    <description>Recent content in Posts on NESEmu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Kyle Miller and Ethan Williams</copyright>
+    <lastBuildDate>Thu, 09 May 2019 15:54:32 -0400</lastBuildDate>
+    
+	<atom:link href="https://nesemu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>https://nesemu.github.io/posts/hello/</link>
+      <pubDate>Thu, 09 May 2019 15:54:32 -0400</pubDate>
+      
+      <guid>https://nesemu.github.io/posts/hello/</guid>
+      <description>Welcome to NESEmu! NESEmu is a free, lightweight native NES emulator for macOS. Read more about us, install the emulator, or jump in and contribute to the project!</description>
+    </item>
+    
+  </channel>
+</rss>
